@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* Start of nav-bar segment  */
+
+.navbar_bg {
+  background-color: rgb(0, 51, 0);
+  color: white;
+}
+.web_name {
+  font-size: 27px;
+  padding: 0px 0px 1px 78px;
+  font-weight: 600;
+}
+/* End of nav-bar segment  */
